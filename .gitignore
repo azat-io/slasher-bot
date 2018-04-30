@@ -1,0 +1,12 @@
+# Node.js / NPM
+node_modules
+npm-debug.log
+
+# Yarn
+yarn-error.log
+
+# Enviorenment
+.env
+
+# Code Coverage
+coverage
